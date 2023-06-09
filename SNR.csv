@@ -1,0 +1,448 @@
+FNR;Benennung deutsch;Benennung english;Code;"Sachnummer
+SNR";TypID;MY;MBR;FBR;FBM;Model Name;COP Typ-Bezeichnung
+0109;Oel-Einfuellverschluss;Oil filler cap;;P 000 010 03 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0204;Zuendspule;Ignition coil;;P 276 906 79 00 ;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0204;Zuendspule;Ignition coil;;P 276 906 12 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0207;Zuendkerze;Spark plug;;P 004 159 69 03;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0207;Zuendkerze;Spark plug; ;P 004 159 72 03;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor; ;P 276 905 15 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0219;Positionssensor Nockenwelle;Camshaft position sensor; ;P 276 905 09 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0301;Daempferfilter;Air cleaner; ;P 276 090 37 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0301;Daempferfilter;Air cleaner;2U3;P 276 090 45 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0301;Daempferfilter;Air cleaner; ;P 276 090 38 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0301;Daempferfilter;Air cleaner;2U3;P 276 090 46 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0302;Ladeluftverteiler;Intake manifold; ;P 276 090 02 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0310;oelabscheider;Oil separator;;P 273 010 01 62;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0310;oelabscheider;Oil separator;;P 276 010 71 11;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0341;E-Gassteller;Electr. throttle valve; ;P 276 141 01 25;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0366;Reinluftleitung;Clean air line;;P 276 094 06 97;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0366;Reinluftleitung;Clean air line;;P 276 094 05 97;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0366;Reinluftleitung;Clean air line;;P 276 094 04 97;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0432;Hochdruckpumpe;High-pressure pump; ;P 278 070 11 01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0433;Injektor;Fuel injector; ;P 256 070 56 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0501;Abgasturbolader;Turbocharger; ;P 276 090 20 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0501;Abgasturbolader;Turbocharger; ;P 276 090 19 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0503;Waste-Gate Steller;Waste gate valve;;incl. in 05.01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0527;Schubumluftventil;Decel air valve;;P 000 153 11 59;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0529;Ladeluftleitung ;Charge air line;;P 276 090 07 37;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0529;Ladeluftleitung ;Charge air line;;P 276 090 08 37;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure);;incl. in 07.03;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0703;Kraftstoffpumpe;Fuel Pump;916;P 205 470 49 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 276 070 23 95;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 276 070 24 95;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 276 070 14 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 276 070 15 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1001;Auspuffkruemmer;Exhaust manifold; ;incl. in 05.01;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst; ;P 205 490 02 56;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst; ;P 205 490 03 56;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1101;Lambdasonde ;Primary O2 sensor; ;P 009 542 60 18;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1101;Lambdasonde ;Primary O2 sensor; ;P 009 542 62 18;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1116;Lambdasonde ;Secondary O2 sensor; ;P 000 542 16 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1116;Lambdasonde ;Secondary O2 sensor; ;P 000 542 20 04;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1201;Kraftstoffbehaelter;Fuel tank;;P 205 471 13 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1205;Tankverschluss;Filler cap; ;P 222 470 02 05;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1209;Aktivkohlefilter;EVAP canister; ;P 205 470 40 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;P 205 905 32 10;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1221;Regenerierventil;EVAP canister purge valve; ;P 001 476 44 32;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1252;Regenerierleitung;EVAP purge line;;P 205 471 10 15;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1252;Regenerierleitung;EVAP purge line;;P 205 471 15 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1252;Regenerierleitung;EVAP purge line;;P 205 470 61 02;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;P 000 545 01 41;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage;;P 000 545 20 36;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1258;Drucksensor Regenerierung;Pressure sensor, purge line; ;P 000 905 50 02;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled; ;P 276 200 03 15;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;P 725 270 19 05;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1634;Schaltplatte;Gearshift plate;;P 725 270 18 05;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1726;Stellmagnet Nockenwelle;Actuator, CMP;ww;P 276 156 07 90;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1726;Stellmagnet Nockenwelle;Actuator, CMP;ww;P 276 156 04 90;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+1757;oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;P 278 180 04 15;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2017;Klopfsensor;Knock sensor;;P 000 905 09 02;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2022;Drehzahlsensor ;Vehicle speed sensor; ;P 205 905 85 03;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2022;Drehzahlsensor ;Vehicle speed sensor; ;P 205 905 76 09;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM); ;incl. in 38.46;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;P 007 153 05 28;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;P 278 905 01 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2042;Drucksensor (Ladeluft) ;Pressure sensor (charge air) 1; ;P 009 153 33 28;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2043;Drucksensor (Ladeluft) ;Pressure sensor (charge air) 2; ;P 009 153 33 28;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;P 000 905 61 02;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+2427;Temperatursensor (Ladeluft) ;Temperature sensor (charge air) 1; ;P 276 905 00 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware; ;P 276 901 63 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3847;Steuergeraet Motorregelung Software;Control module engine software;;P 276 902 07 02;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;P 276 903 07 05;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3850;Programm, Automatikgetriebe;Program automatic transmission;;P 000 902 28 65;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3850;Programm, Automatikgetriebe;Program automatic transmission;;P 000 902 42 73;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;P 000 901 50 00;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;P 000 902 32 48;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;P 000 903 89 26;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware;;P 000 901 33 13;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware;U78;P 000 901 30 13;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3862;Steuergeraet CPC Software;Central powertrain controller software;;P 000 902 34 61;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;P 000 903 40 55;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;P 000 901 38 06;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;;P 000 901 16 16;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;;P 000 901 76 06;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;;P 000 901 04 25;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 66 71;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 28 48;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 82 72;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 67 71;208-22;22;100;111;123456;AEG C 43 6Static (convertible);123456 AEG C 43 6Static (convertible) 100 111 MY22
+0109;Oel-Einfuellverschluss;Oil filler cap; ;P 000 010 16 85;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0209;Gluehkerze;Glow plug;;P 001 159 66 01;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor; ;P 276 905 15 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0219;Positionssensor Nockenwelle;Camshaft position sensor; ;P 005 153 13 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0301;Daempferfilter;Air cleaner;;P 907 528 01 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0302;Ladeluftverteiler;Intake manifold; ;P 642 090 69 37;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0302;Ladeluftverteiler;Intake manifold; ;P 642 090 06 37;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0302;Ladeluftverteiler;Intake manifold; ;P 642 098 00 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0310;Oelabscheider;Oil separator;;P 642 010 03 62;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0352;Stellmotor (EKAS);Intake-port shutoff; ;P 642 150 05 94;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0360;Ansaugluftdrosselung elektr.;Intake air throttle electric; ;P 642 090 02 70;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0364;Oeleinfuellrohr;Oil filler pipe;;P 642 010 81 07;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0366;Reinluftleitung;Clean air line;;P 906 528 23 24;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0431;Steuergeraet GZE (Gluehzeitendstufe);Glow-time control modul ; ;P 642 900 13 02;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0432;Hochdruckpumpe;High-pressure pump; ;P 642 070 11 01;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0433;Injektor;Fuel injector; ;P 642 070 12 87;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0433;Injektor;Fuel injector;;P 642 070 12 87;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0516;Ladeluftkuehler ;Charge air cooler; ;P 907 501 17 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0525;Turbolader, VTG;Turbocharger, VNT; ;P 642 090 12 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0529;Ladeluftleitung ;Charge air line;;P 642 090 05 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0529;Ladeluftleitung ;Charge air line;;P 642 090 59 37;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0769;Kraftstoff-Druckregelventil;Fuel pressure regulator; ;P 642 070 02 46;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 642 070 27 95;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 642 070 30 95;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0791;Kraftstoffdrucksensor (Niederdruck);Low pressure fuel sensor; ;P 004 542 16 18;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0801;Abgasrueckfuehrventil (Hochdruck-AGR);Exhaust gas recirculation valve (high pressure); ;P 642 140 14 60;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0813;Abgaswaermeaustauscher (Hochdruck-AGR);Exhaust gas recirculation cooler (high pressure); ;P 642 140 21 75;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0818;Bypassklappe (Hochdruck-AGR);Bypass flap (high pressure EGR);;P 642 140 03 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1001;Auspuffkruemmer;Exhaust manifold; ;P 642 140 09 09;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1001;Auspuffkruemmer;Exhaust manifold; ;P 642 140 08 09;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1005;Oxidations-Katalysator;Oxidation catalyst; ;P 205 491 16 14;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1012;Drucksensor (Abgasgegendruck) ;Sensor (exhaust back pressure) 1; ;P 000 905 27 06;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1013;Partikelfilter;Particulate filter; ;P 906 491 14 94;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1029;Drucksensor (PF-Differenzdruck);Sensor (exhaust differential-pressure); ;P 000 905 65 03;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1041;SCR Katalysator;SCR catalyst; ;P 906 490 26 14;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1101;Lambdasonde ;Primary O2 sensor; ;P 006 542 49 18;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1107;NOX-Sensor ;NOX sensor 1; ;P 000 905 30 09;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1114;PM-Sensor;Particulate matter sensor;;P 000 905 06 08;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1114;PM-Sensor;Particulate matter sensor;;P 000 905 02 14;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1115;NOX-Sensor ;NOX sensor 2; ;P 000 905 30 09;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1233;Kraftstoffdruckregelventil;Fuel-pressure regulator; ;incl. in 12.24;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1234;Ueberdruckventil;Pressure relief valve;;P 910 470 00 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1235;Schwimmerventil ;Floating valve; ;incl. in 12.24;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1236;Schwimmerventil (Roll-over);Roll-over valve; ;P 000 490 02 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1263;Qualitaetssensor SCR;Quality sensor SCR; ;incl. in 12.24;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1504;Thermostat (Kuehlwasser);Engine thermostat;;P 642 200 20 15;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;A98+35A;P 231 270 38 01;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1634;Schaltplatte;Gearshift plate;A98;P 212 270 00 57;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;P 278 180 04 15;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;P 008 153 44 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2037;DS Hochdrucksensor;Rail pressure sensor; ;P 006 153 78 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2042;Drucksensor (Ladeluft) ;Pressure sensor (charge air) 1; ;P 009 153 34 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;P 000 905 61 02;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2417;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 1;;P 000 905 14 05;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2420;Temperatursensor (Motoroel);Temperature sensor (motor oil);;P 005 153 23 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2421;Kraftstofftemperatursensor;Fuel temperature sensor; ;P 005 153 23 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2424;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 2;;P 000 905 40 05;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2425;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 3;;P 000 905 88 04;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2426;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 4; ;P 000 905 99 05;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2427;Temperatursensor (Ladeluft) ;Temperature sensor (charge air) 1; ;P 651 153 00 28;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+2431;Temperatursensor (Hochdruck-AGR);Temperature sensor (high pressure EGR); ;P 000 905 43 05;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3606;Luftmassenmesser mit Temperatursensor;MAF sensor with IAT sensor; ;P 000 094 34 48;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware; ;P 642 901 41 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3847;Steuergeraet Motorregelung Software;Control module engine software;;P 642 902 63 04;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3847;Steuergeraet Motorregelung Software;Control module engine software; ;P 642 902 16 04;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;P 642 903 77 18;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;P 642 903 75 18;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3850;Programm, Automatikgetriebe;Program automatic transmission; ;P 000 902 30 52;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3850;Programm, Automatikgetriebe;Program automatic transmission;;P 000 902 54 91;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;P 000 901 71 00;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3858;Steuergeraet Abgasnachbehandlung Software;Control module exhaust aftertreatment software;;P 000 902 96 67;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3859;Steuergeraet Abgasnachbehandlung Parameterdaten;Control module exhaust aftertreatment parameters;;P 000 903 04 63;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware;;P 000 901 33 13;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3862;Steuergeraet CPC Software;Central powertrain controller software;;P 000 902 42 52;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3862;Steuergeraet CPC Software;Central powertrain controller software;;P 000 902 56 52;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;P 000 903 84 39;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;P 000 903 20 63;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+3865;Steuergeraet Abgasnachbehandlung Hardware;Control module exhaust aftertreatment hardware; ;P 000 901 17 03;332-22;22;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY22
+0109;Oel-Einfuellverschluss;Oil filler cap; ;T 000 010 16 85;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0209;Gluehkerze;Glow plug;;T 001 159 66 01;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor; ;T 276 905 15 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0219;Positionssensor Nockenwelle;Camshaft position sensor; ;T 005 153 13 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0301;Daempferfilter;Air cleaner;;T 907 528 01 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0302;Ladeluftverteiler;Intake manifold; ;T 642 090 69 37;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0302;Ladeluftverteiler;Intake manifold; ;T 642 090 06 37;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0302;Ladeluftverteiler;Intake manifold; ;T 642 098 00 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0310;Oelabscheider;Oil separator;;T 642 010 03 62;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0352;Stellmotor (EKAS);Intake-port shutoff; ;T 642 150 05 94;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0360;Ansaugluftdrosselung elektr.;Intake air throttle electric; ;T 642 090 02 70;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0364;Oeleinfuellrohr;Oil filler pipe;;T 642 010 81 07;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0366;Reinluftleitung;Clean air line;;T 906 528 23 24;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0431;Steuergeraet GZE (Gluehzeitendstufe);Glow-time control modul ; ;T 642 900 13 02;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0432;Hochdruckpumpe;High-pressure pump; ;T 642 070 11 01;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0433;Injektor;Fuel injector; ;T 642 070 12 87;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0433;Injektor;Fuel injector;;T 642 070 12 87;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0516;Ladeluftkuehler ;Charge air cooler; ;T 907 501 17 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0525;Abgasturbolader;Turbocharger, VNT; ;T 642 090 12 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0529;Ladeluftleitung ;Charge air line;;T 642 090 05 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0529;Ladeluftleitung ;Charge air line;;T 642 090 59 37;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0769;Kraftstoff-Druckregelventil;Fuel pressure regulator; ;T 642 070 02 46;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;T 642 070 27 95;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;T 642 070 30 95;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0791;Kraftstoffdrucksensor (Niederdruck);Low pressure fuel sensor; ;T 004 542 16 18;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0801;Abgasrueckfuehrventil (Hochdruck-AGR);Exhaust gas recirculation valve (high pressure); ;T 642 140 14 60;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0813;Abgaswaermeaustauscher (Hochdruck-AGR);Exhaust gas recirculation cooler (high pressure); ;T 642 140 21 75;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0818;Bypassklappe (Hochdruck-AGR);Bypass flap (high pressure EGR);;T 642 140 03 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1001;Auspuffkruemmer;Exhaust manifold; ;T 642 140 09 09;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1001;Auspuffkruemmer;Exhaust manifold; ;T 642 140 08 09;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1005;Oxidations-Katalysator;Oxidation catalyst; ;T 205 491 16 14;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1012;Drucksensor (Abgasgegendruck) ;Sensor (exhaust back pressure) 1; ;T 000 905 27 06;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1013;Partikelfilter;Particulate filter; ;T 906 491 14 94;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1029;Drucksensor (PF-Differenzdruck);Sensor (exhaust differential-pressure); ;T 000 905 65 03;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1041;SCR Katalysator;SCR catalyst; ;T 906 490 26 14;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1101;Lambdasonde ;Primary O2 sensor; ;T 006 542 49 18;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1107;NOX-Sensor ;NOX sensor 1; ;T 000 905 30 09;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1114;PM-Sensor;Particulate matter sensor;;T 000 905 06 08;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1114;PM-Sensor;Particulate matter sensor;;T 000 905 02 14;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1115;NOX-Sensor ;NOX sensor 2; ;T 000 905 30 09;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1233;Kraftstoffdruckregelventil;Fuel-pressure regulator; ;incl. in 12.24;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1234;Ueberdruckventil;Pressure relief valve;;T 910 470 00 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1235;Schwimmerventil ;Floating valve; ;incl. in 12.24;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1236;Schwimmerventil (Roll-over);Roll-over valve; ;T 000 490 02 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1263;Qualitaetssensor SCR;Quality sensor SCR; ;incl. in 12.24;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1504;Thermostat (Kuehlwasser);Engine thermostat;;T 642 200 20 15;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;A98+35A;T 231 270 38 01;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1634;Schaltplatte;Gearshift plate;A98;T 212 270 00 57;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;T 278 180 04 15;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;T 008 153 44 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2037;DS Hochdrucksensor;Rail pressure sensor; ;T 006 153 78 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2042;Drucksensor (Ladeluft) ;Pressure sensor (charge air) 1; ;T 009 153 34 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;T 000 905 61 02;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2417;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 1;;T 000 905 14 05;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2420;Temperatursensor (Motoroel);Temperature sensor (motor oil);;T 005 153 23 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2421;Kraftstofftemperatursensor;Fuel temperature sensor; ;T 005 153 23 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2424;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 2;;T 000 905 40 05;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2425;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 3;;T 000 905 88 04;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2426;Temperatursensor (Abgas) ;Temperature sensor (exhaust gas) 4; ;T 000 905 99 05;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2427;Temperatursensor (Ladeluft) ;Temperature sensor (charge air) 1; ;T 651 153 00 28;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+2431;Temperatursensor (Hochdruck-AGR);Temperature sensor (high pressure EGR); ;T 000 905 43 05;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3606;Luftmassenmesser mit Temperatursensor;MAF sensor with IAT sensor; ;T 000 094 34 48;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware; ;T 642 901 41 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3847;Steuergeraet Motorregelung Software;Control module engine software;;T 642 902 63 04;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3847;Steuergeraet Motorregelung Software;Control module engine software; ;T 642 902 16 04;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;T 642 903 77 18;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;T 642 903 75 18;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3850;Programm, Automatikgetriebe;Program automatic transmission; ;T 000 902 30 52;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3850;Programm, Automatikgetriebe;Program automatic transmission;;T 000 902 54 91;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;T 000 901 71 00;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3858;Steuergeraet Abgasnachbehandlung Software;Control module exhaust aftertreatment software;;T 000 902 96 67;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3859;Steuergeraet Abgasnachbehandlung Parameterdaten;Control module exhaust aftertreatment parameters;;T 000 903 04 63;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware;;T 000 901 33 13;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3862;Steuergeraet CPC Software;Central powertrain controller software;;T 000 902 42 52;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3862;Steuergeraet CPC Software;Central powertrain controller software;;T 000 902 56 52;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;T 000 903 84 39;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;T 000 903 20 63;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+3865;Steuergeraet Abgasnachbehandlung Hardware;Control module exhaust aftertreatment hardware; ;T 000 901 17 03;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
+0109;Oel-Einfuellverschluss;Oil filler cap; ;F 000 018 02 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0109;Oel-Einfuellverschluss;Oil filler cap;;F 000 018 05 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0204;Zuendspule;Ignition coil;;F 256 906 05 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0204;Zuendspule;Ignition coil;;F 256 906 06 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0207;Zuendkerze;Spark plug;;F 254 159 00 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor;;F 256 905 01 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;F 654 905 24 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;F 254 905 36 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0301;Daempferfilter;Air cleaner;2U3/824;F 654 090 28 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0301;Daempferfilter;Air cleaner;;F 654 090 26 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0310;Oelabscheider;Oil separator;;F 256 010 96 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0341;E-Gassteller;Electr. throttle valve; ;F 256 141 00 25;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0366;Reinluftleitung;Clean air line;;F 256 090 28 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0432;Hochdruckpumpe;High-pressure pump;;F 256 070 26 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0433;Injektor;Fuel injector;;F 256 070 56 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0501;Abgasturbolader;Turbocharger;AA6;F 256 090 50 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0501;Abgasturbolader;Turbocharger;AA6;F 256 090 14 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0503;Waste-Gate Steller;Waste gate valve;;F 256 906 11 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0516;Ladeluftkuehler ;Charge air cooler;;F 256 090 20 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0527;Schubumluftventil;Decel air valve;;F 000 906 88 04;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0529;Ladeluftleitung ;Charge air line;AA6;F 256 098 02 07;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0529;Ladeluftleitung ;Charge air line;AA6;F 256 098 03 07;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 36 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 48 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 52 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0534;Rueckschlagventil, Ladeluft;Check valve, charge air;AA6;F 256 141 00 58;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure); ;incl. in 07.03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0703;Kraftstoffpumpe;Fuel Pump; ;F 167 470 45 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;F 256 070 07 95;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 09 95;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 60 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 59 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1001;Auspuffkruemmer;Exhaust manifold; ;F 256 140 00 09;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 73 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 69 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 39 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1101;Lambdasonde ;Primary O2 sensor; ;F 000 542 43 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1116;Lambdasonde ;Secondary O2 sensor;;F 000 542 76 11;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1201;Kraftstoffbehaelter;Fuel tank;;F 167 471 00 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1205;Tankverschluss;Filler cap;;F 000 470 65 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1209;Aktivkohlefilter;EVAP canister; ;F 167 470 34 03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;incl. in 07.03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1221;Regenerierventil;EVAP canister purge valve;;F 000 470 37 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1252;Regenerierleitung;EVAP purge line;;F 256 018 12 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1252;Regenerierleitung;EVAP purge line;;F 256 018 22 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1252;Regenerierleitung;EVAP purge line;;F 167 470 05 04;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;F 000 545 01 41;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1258;Drucksensor Regenerierung;Pressure sensor, purge line;;F 000 905 50 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 00 75;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 37 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 38 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;F 725 270 19 05;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1634;Schaltplatte;Gearshift plate;;F 725 270 18 05;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1726;Stellmagnet Nockenwelle;Actuator, CMP; ;F 276 156 07 90;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1756;Stellmagnet Camtronic;Actuator camtronic;;F 177 982 19 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;F 000 997 48 07;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1760;Oeldruckschaltventil;Oil switching valve;;incl. in Oilpump;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2017;Klopfsensor;Knock sensor; ;F 000 905 73 04;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2022;Drehzahlsensor ;Vehicle speed sensor; ;F 247 905 00 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2022;Drehzahlsensor ;Vehicle speed sensor; ;F 167 905 46 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;F 000 905 59 06;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;F 256 905 02 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2044;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 1; ;F 009 153 86 28;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2045;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 2; ;F 009 153 86 28;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2046;Druck- und Temperatursensor (Motoroel);Pressure and temperature sensor (motor oil);;F 654 905 16 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2047;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 3;;F 009 153 86 28;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant);;F 000 905 23 15;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;F 000 905 61 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3831;Steuergeraet ESP Hardware;Control module ESP hardware;;F 167 901 66 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware;;F 256 901 31 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3847;Steuergeraet Motorregelung Software;Control module engine software;;F 256 902 32 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;F 256 903 06 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3850;Programm, Automatikgetriebe;Program automatic transmission;;F 000 902 89 73;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;F 000 901 50 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;F 000 902 66 61;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;F 000 903 03 43;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 94 10;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 53 13;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 42 09;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware; ;F 000 901 30 13;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3862;Steuergeraet CPC Software;Central powertrain controller software;;F 000 902 52 60;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;F 000 903 62 50;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;F 000 901 53 03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3901;Steuergeraet Elektromotor Hardware;Control module electric motor hardware; ;F 256 901 08 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3904;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware;;F 000 901 89 14;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3910;Steuergeraet Elektromotor Software;Control module electric motor software;;F 256 902 53 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3911;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters;;F 256 903 99 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3912;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software;;F 000 902 42 80;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3915;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware;;F 000 901 46 09;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3916;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software;;F 000 902 30 55;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3920;Starterbatterie 48V;Starter battery 48V;;F 000 982 44 20;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;F 000 901 15 16;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;F 000 901 14 16;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;F 000 901 02 25;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;F 000 901 03 25;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 50 67;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 61 71;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 66 71;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 67 71;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+4001;Wasserpumpe;Water pump;;F 256 200 14 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0109;Oel-Einfuellverschluss;Oil filler cap; ;P 000 018 02 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0109;Oel-Einfuellverschluss;Oil filler cap;;P 000 018 05 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0204;Zuendspule;Ignition coil;;P 256 906 05 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0204;Zuendspule;Ignition coil;;P 256 906 06 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0207;Zuendkerze;Spark plug;;P 254 159 00 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor;;P 256 905 01 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;P 654 905 24 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;P 254 905 36 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0301;Daempferfilter;Air cleaner;2U3/824;P 654 090 28 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0301;Daempferfilter;Air cleaner;;P 654 090 26 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0310;Oelabscheider;Oil separator;;P 256 010 96 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0341;E-Gassteller;Electr. throttle valve; ;P 256 141 00 25;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0366;Reinluftleitung;Clean air line;;P 256 090 28 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0432;Hochdruckpumpe;High-pressure pump;;P 256 070 26 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0433;Injektor;Fuel injector;;P 256 070 56 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0501;Abgasturbolader;Turbocharger;AA6;P 256 090 50 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0501;Waste-Gate Steller;Turbocharger;AA6;P 256 090 14 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0503;Ladeluftkuehler ;Waste gate valve;;P 256 906 11 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0516;Turbolader, VTG;Charge air cooler;;P 256 090 20 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0527;Schubumluftventil;Decel air valve;;P 000 906 88 04;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0529;Ladeluftleitung ;Charge air line;AA6;P 256 098 02 07;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0529;Ladeluftleitung ;Charge air line;AA6;P 256 098 03 07;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 36 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 48 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 52 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0534;Rueckschlagventil, Ladeluft;Check valve, charge air;AA6;P 256 141 00 58;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure); ;incl. in 07.03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0703;Kraftstoffpumpe;Fuel Pump; ;P 167 470 45 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 256 070 07 95;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 09 95;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 60 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 59 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1001;Auspuffkruemmer;Exhaust manifold; ;P 256 140 00 09;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 73 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 69 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 39 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1101;Lambdasonde ;Primary O2 sensor; ;P 000 542 43 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1116;Lambdasonde ;Secondary O2 sensor;;P 000 542 76 11;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1201;Kraftstoffbehaelter;Fuel tank;;P 167 471 00 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1205;Tankverschluss;Filler cap;;P 000 470 65 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1209;Aktivkohlefilter;EVAP canister; ;P 167 470 34 03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;incl. in 07.03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1221;Regenerierventil;EVAP canister purge valve;;P 000 470 37 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1252;Regenerierleitung;EVAP purge line;;P 256 018 12 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1252;Regenerierleitung;EVAP purge line;;P 256 018 22 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1252;Regenerierleitung;EVAP purge line;;P 167 470 05 04;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;P 000 545 01 41;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1258;Drucksensor Regenerierung;Pressure sensor, purge line;;P 000 905 50 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 00 75;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 37 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 38 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;P 725 270 19 05;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1634;Schaltplatte;Gearshift plate;;P 725 270 18 05;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1726;Stellmagnet Nockenwelle;Actuator, CMP; ;P 276 156 07 90;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1756;Stellmagnet Camtronic;Actuator camtronic;;P 177 982 19 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;P 000 997 48 07;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1760;Oeldruckschaltventil;Oil switching valve;;incl. in Oilpump;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2017;Klopfsensor;Knock sensor; ;P 000 905 73 04;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2022;Drehzahlsensor ;Vehicle speed sensor; ;P 247 905 00 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2022;Drehzahlsensor ;Vehicle speed sensor; ;P 167 905 46 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;P 000 905 59 06;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;P 256 905 02 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2044;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 1; ;P 009 153 86 28;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2045;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 2; ;P 009 153 86 28;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2046;Druck- und Temperatursensor (Motoroel);Pressure and temperature sensor (motor oil);;P 654 905 16 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2047;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 3;;P 009 153 86 28;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant);;P 000 905 23 15;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;P 000 905 61 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3831;Steuergeraet ESP Hardware;Control module ESP hardware;;P 167 901 66 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware;;P 256 901 31 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3847;Steuergeraet Motorregelung Software;Control module engine software;;P 256 902 32 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;P 256 903 06 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3850;Programm, Automatikgetriebe;Program automatic transmission;;P 000 902 89 73;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;P 000 901 50 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;P 000 902 66 61;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;P 000 903 03 43;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 94 10;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 53 13;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 42 09;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware; ;P 000 901 30 13;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3862;Steuergeraet CPC Software;Central powertrain controller software;;P 000 902 52 60;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;P 000 903 62 50;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;P 000 901 53 03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3901;Steuergeraet Elektromotor Hardware;Control module electric motor hardware; ;P 256 901 08 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3904;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware;;P 000 901 89 14;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3910;Steuergeraet Elektromotor Software;Control module electric motor software;;P 256 902 53 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3911;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters;;P 256 903 99 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3912;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software;;P 000 902 42 80;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3915;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware;;P 000 901 46 09;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3916;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software;;P 000 902 30 55;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3920;Starterbatterie 48V;Starter battery 48V;;P 000 982 44 20;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;P 000 901 15 16;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;P 000 901 14 16;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;P 000 901 02 25;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;P 000 901 03 25;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 50 67;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 61 71;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 66 71;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 67 71;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+4001;Wasserpumpe;Water pump;;P 256 200 14 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22

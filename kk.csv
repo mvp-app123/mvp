@@ -1,0 +1,380 @@
+FNR;Benennung deutsch;Benennung englisch
+01.00;Motor;Engine
+01.09;Oel-Einfuellverschluss;Oil filler cap
+01.30;Kolbenspritze;Piston syringe
+02.00;Zuendung;Ignition
+02.04;Zuendspule;Ignition coil
+02.07;Zuendkerze;Spark plug
+02.09;Gluehkerze;Glow plug
+02.15;Positionssensor Kurbelwelle;Crankshaft position sensor
+02.19;Positionssensor Nockenwelle;Camshaft position sensor
+02.39;Zuendmodul;Ignition module
+03.00;Ansaugsystem;Intake system
+03.01;Daempferfilter;Air cleaner
+03.02;Ladeluftverteiler;Intake manifold
+03.10;Oelabscheider;Oil separator
+03.23;KGH-Entlueftungsventil;Crankcase ventilation valve
+03.29;Mischgehaeuse;Mixing chamber
+03.41;E-Gassteller;Electr. throttle valve
+03.46;U-Dose Steuerklappe (Saugrohr);Actuator VIS
+03.52;Stellmotor (EKAS);Intake-port shutoff
+03.60;Ansaugluftdrosselung elektr.;Intake air throttle electric
+03.62;Druckregelventil (KGH-Entlueftung);Pressure regulator (crankcase ventilation)
+03.64;Oeleinfuellrohr;Oil filler pipe
+03.65;Saugstrahlpumpe;Suction jet pump
+03.66;Reinluftleitung;Clean air line
+03.67;Drucksensor KGH-Entlueftung;Pressure sensor crankcase ventilation
+03.68;Oelabscheider, elektrisch;Oil separator, electrical
+03.69;Heizelement KGH-Entlueftung;Crankcase ventilation heater
+04.00;Direkt-Einspritzung;Direct fuel injection
+04.31;Steuergeraet GZE (Gluehzeitendstufe);Glow-time control modul 
+04.32;Hochdruckpumpe;High-pressure pump
+04.33;Injektor;Fuel injector
+05.00;Aufladung;Turbo charging
+05.01;Abgasturbolader;Turbocharger
+05.03;Waste-Gate Steller;Waste gate valve
+05.16;Ladeluftkuehler;Charge air cooler
+05.17;Lader mech.;Supercharger
+05.18;Umluftsteller;SCB valve
+05.25;Turbolader, VTG;Turbocharger, VNT
+05.27;Schubumluftventil;Decel air valve
+05.29;Ladeluftleitung ;Charge air line
+05.33;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical
+05.34;Rueckschlagventil, Ladeluft;Check valve, charge air
+05.35;Ladedruckregelklappe;Charging pressure flap
+05.37;Ladeluftkuehler mit Klappe;Charge air cooler with cooler flap
+05.38;Ladeluftverteiler mit Ladeluftkuehler;Intake manifold with charge air cooler
+05.39;Elektrisch unterstuetzter Turbolader;Electrically assisted turbo charger
+06.00;Vergaser;Carburetor
+07.00;Einspritzsystem;Fuel injection system
+07.01;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure)
+07.03;Kraftstoffpumpe;Fuel Pump
+07.04;Kraftstoffverteiler (Niederdruck);Fuel rail (low pressure)
+07.67;Druckregler CNG;Pressure regulator, CNG
+07.69;Kraftstoff-Druckregelventil;Fuel pressure regulator
+07.70;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure)
+07.71;Einspritzventil;Injection valve
+07.73;Hochdruckinjektor;High pressure injector
+07.79;Niederdruckschalter, CNG;Low pressure switch, CNG
+07.80;Hochdruckabschaltventil, CNG;High pressure shut-off valve, CNG
+07.81;Kraftstoffdruckdaempfer;Fuel pressure damper
+07.85;Sicherheitsventil, CNG (Elektromagnetisch);Shut-off valve, CNG (electromagnetic)
+07.87;Einblaseventil, CNG;Gas injector
+07.88;Gasverteiler, CNG;Gas distributor, CNG
+07.89;Gasfilter, CNG;Gas filter, CNG
+07.90;Niederdruckabschaltventil (elektromagnetisch), CNG;Low pressure shut-off valve (electromagnetic), CNG
+07.91;Kraftstoffdrucksensor (Niederdruck);Low pressure fuel sensor
+07.92;Pumpensteuergeraet;Pump ECU
+07.94;FOerdereinheit;Fuel supply unit
+07.97;Kraftstoff-Ueberdruckventil;Fuel pressure relief valve
+07.98;DAV (Druckabbauventil);Pressure drop valve
+07.99;Mengensteuerventil (MSV);Mass flow valve
+08.00;Abgasrueckfuehrung;Exhaust gas recirculation
+08.01;Abgasrueckfuehrventil (Hochdruck-AGR);Exhaust gas recirculation valve (high pressure)
+08.04;U-Dose Ansaugluftdrosselung;Vacuum motor, intake air control
+08.13;Abgaswaermeaustauscher (Hochdruck-AGR);Exhaust gas recirculation cooler (high pressure)
+08.15;Umschaltklappe AGR;EGR cooler bypass flap
+08.16;Unterdruckdose AGR;Vacuum actuator EGR
+08.17;Abgasrueckfuehrleitung;Exhaust Gas Recirculation Line
+08.18;Bypassklappe (Hochdruck-AGR);Bypass flap (high pressure EGR)
+08.19;Abgasgegendruckklappe;Exhaust air flap
+08.20;Abgasrueckfuehrventil (Niederdruck-AGR);Exhaust gas recirculation valve (low pressure)
+08.21;Abgaswaermeaustauscher (Niederdruck-AGR);Exhaust gas recirculation cooler (low pressure)
+09.00;Lufteinblasung;AIR
+09.08;Luftpumpe;Air injection pump
+09.13;Luftpumpe m. Ansaugstutzen;Air pump
+09.16;Luftabschaltventil;AIR valve
+09.18;Ansaugfilter;Air cleaner, AIR
+09.22;Kombiventil;AIR injection valve
+09.23;Dichtung fuer Sekundaerluft;Orifice Gasket
+09.24;Nebenluftpumpe;Auxiliary air injection pump
+09.25;Kombiventil, Nebenluft;Auxiliary air injection valve
+10.00;Auspuffanlage;Exhaust system
+10.01;Auspuffkruemmer;Exhaust manifold
+10.05;Oxidations-Katalysator;Oxidation catalyst
+10.09;Kataysator (motornah);TWC, underhood
+10.12;Drucksensor (Abgasgegendruck) 1;Sensor (exhaust back pressure) 1
+10.13;Partikelfilter;Particulate filter
+10.29;Drucksensor (PF-Differenzdruck);Sensor (exhaust differential-pressure)
+10.34;Auspuffleitung (mit Kat);Exhaust pipe front (incl catalyst)
+10.35;Auspuffkruemmer mit Kat;Exhaust manifold with catalyst
+10.38;NOX-Speicherkatalysator;NOX storage catalyst
+10.39;Drei-Wege-Katalysator;Three-way-catalyst
+10.40;"Auspuffkruemmer mit 
+Stirnwand- und Unterbodenkat";"Exhaust manifold catalyst 
+underhood and underfloor"
+10.41;SCR Katalysator;SCR catalyst
+10.42;Geruchsfilter ;Odor-filter
+10.45;Nox-Speicherkat (Unterboden);Nox-Adsorption catalyst (underfloor)
+10.47;Auspuffleitung / Abgasanlage;Exhaust pipe rear
+10.48;Drucksensor (Differenzdruck, PF-OBD);Sensor (exhaust differential-pressure, OBD)
+10.49;Partikelfilter inkl. SCR Katalysator;Particulate filter incl. SCR catalyst
+10.50;Sperrkatalysator;Ammonia trap
+10.51;Oxidations-Katalysator, elektrisch beheizt;Electrically heated oxidation catalyst 
+10.52;Differenzdrucksensor (Niederdruck-AGR);Differential pressure sensor (low pressure EGR)
+10.53;Drucksensor (Abgasgegendruck) 2;Sensor (exhaust back pressure) 2
+10.54;Partikelfilter mit H2S-Sperrkat;cDPF with H2S anti slip catalyst
+10.56;Kombi-Druck-Sensor (Ansaugluft/Differenzdruck (Niederdruck-AGR));Combined pressure sensor (induction air/differential pressure (low pressure EGR))
+10.57;SCR/ASC Katalysator                              ;SCR/ASC catalyst
+10.58;Oxidations-Katalysator mit NOX-Speicherfunktion;Oxidation catalyst with NOX storage function
+10.59;Katalysator, elektrisch beheizt;Catalyst, electrically heated
+11.00;Lambda-Regelung;LAMBDA CONTROL
+11.01;Lambdasonde 1;Primary O2 sensor
+11.07;NOX-Sensor 1;NOX sensor 1
+11.14;PM-Sensor;Particulate matter sensor
+11.15;NOX-Sensor 2;NOX sensor 2
+11.16;Lambdasonde 2;Secondary O2 sensor
+11.17;NOX-Sensor 3;NOX sensor 3
+11.18;Lambdasonde 3;Tertiary O2 sensor
+12.00;Kraftstoffregenerierung;Fuel evaporation
+12.01;Kraftstoffbehaelter;Fuel tank
+12.03;Ausgleichsbehaelter;Expansion tank
+12.05;Tankverschluss;Filler cap
+12.07;Tankentlueftungsventil;Tank vent valve
+12.09;Aktivkohlefilter;EVAP canister
+12.13;Kraftstoffkuehler;Fuel cooler
+12.18;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank)
+12.19;Einfuellstutzen;Filler neck
+12.21;Regenerierventil;EVAP canister purge valve
+12.22;Drucksensor Additivsystem;Pressure sensor additive system
+12.23;Temperatursensor Additivbehaelter ;Additive tank temperature sensor
+12.24;Additivbehaelter ;Additive tank
+12.25;Pumpe Additiv;Pump additive
+12.26;Einspritzventil Additiv 1;Injection valve, additive 1
+12.27;Fuellstandsgeber Additivbehaelter;Fluid-level gauge, additive tank
+12.28;Absperrventil;EVAP shut-off valve
+12.29;Tankdrucksensor (OBD);Fuel tank pressure sensor (OBD)
+12.31;Belueftungsventil;Check valve, EVAP
+12.33;Kraftstoffdruckregelventil;Fuel-pressure regulator
+12.34;Ueberdruckventil;Pressure relief valve
+12.35;Schwimmerventil ;Floating valve
+12.36;Schwimmerventil (Roll-over);Roll-over valve
+12.38;Gasbehaelter, CNG;Gas reservoir, CNG
+12.39;Absperrventil, CNG;Shut-off valve, CNG
+12.40;Schwimmerventil (ORVR/MS);Float valve MS
+12.41;Belueftungsventil;Vent valve
+12.42;Rezirkulierungsleitung;Recirculation line
+12.45;Umschaltventil ;Switch over valve
+12.48;Belueftungs-/Roll-over Ventil;Vent Valve / Roll-over valve
+12.49;Fuellventil, CNG;Filling valve, CNG
+12.50;Betankungs-Abschaltventil (Roll-over-ventil);Refueling shut-off valve (Roll-over valve) 
+12.51;Druckhalteventil;Overfill protection valve
+12.52;Regenerierleitung;EVAP purge line
+12.53;Einfuellverschluss Additivtank;Filler cap additiv tank
+12.54;Absperrventil, Kraftstoffbehaelter;Fuel tank isolation valve (FTIV)
+12.55;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage
+12.58;Drucksensor Regenerierung;Pressure sensor, purge line
+12.59;Additivleitung;Additiv line
+12.60;Druckentlastungsventil (thermisch), CNG;Pressure relief device, CNG
+12.61;Ethanolsensor;Ethanol sensor
+12.63;Qualitaetssensor SCR;Quality sensor SCR
+12.64;Einspritzventil Additiv 2;Injection valve, additive 2
+13.00;Warneinrichtungen;Warning system
+13.01;Temperaturfuehler, Kat;Catalytic converter temperature sensor
+13.05;Kombiinstrument;Instrument cluster
+13.08;Check-Engine-Anzeige;Malfunction indicator lamp
+13.09;On-Board-Diagnose-Stecker;OBD plug
+13.15;Tankdeckelanzeige (Reservelampe);Filler cap check light
+13.17;Temperaturfuehler (Abgas);Temperature sensor (exhaust)
+13.18;Software Kombiinstrument;Software instrument cluster
+14.00;Unterdrucksystem;Vacuum system
+14.01;Unterdruckpumpe, elektrisch;Vacuum pump, electrical
+14.15;Rueckschlagventil;Vacuum check valve (air)
+14.41;Taktventil, EPW;Electro-pneumatic transducer, frequency valve
+15.00;Klimaanlage / Kuehlung;Air conditioning / engine cooling
+15.04;Thermostat (Kuehlwasser);Engine thermostat
+15.16;Geblaese (Kuehlerluefter);Cooling fan
+15.17;Klimakompressor;air-conditioning compressor
+15.19;Wasserkuehler (Ozon reduzierend);DOR radiator
+15.22;Kuehlerjalousie;radiator blind
+15.23;Kuehlmittelpumpe elektrisch;Coolant pump electrical
+15.24;Geblaese;Blower
+15.25;Kuehlmittelkuehler;Coolant radiator
+15.26;Bypass-Ventil (Kuehlkreislauf);Bypass valve, cooling system
+15.27;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled
+15.28;Regelventil Kuehlmittel;Control valve, coolant
+15.29;Expansionsventil (Klimaanlage Verdampfer);Expansion valve (AC chiller)
+15.30;Verdichter (Klimaanlage Kaeltemittel);Compressor (AC refrigerant)
+15.31;Verdampfer;Chiller
+15.32;Absperrventil Kuehlmittel;Shut-off valve, coolant
+16.00;Getriebe;transmission
+16.33;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit
+16.34;Schaltplatte;Gearshift plate
+16.35;ZusatzOelpumpe (Getriebe);Auxiliary transmission oil pump
+17.00;Elektr. Schalter/ Bauteile;Electrical switches
+17.26;Stellmagnet Nockenwelle;Actuator, CMP
+17.44;Relaiseinheit (Kraftstoffpumpe und Luftpumpe);Relay module, AIR/ FP
+17.50;Generator;Generator
+17.55;Ventilaktuator (Zylinderabschaltung / ZAS);Valve actuator (cylinder deactivation)
+17.56;Stellmagnet Camtronic;Actuator camtronic
+17.57;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical
+17.58;Aktuator (Kuehlerjalousie oben);Upper radiator grill shutter
+17.59;Aktuator (Kuehlerjalousie unten);Lower radiator grill shutter
+17.60;Oeldruckschaltventil;Oil switching valve
+17.61;Schaltventil Kolbenbodenkuehlung;Switching valve piston cooling
+17.62;Aktuator Abgasklappe;Actuator exhaust flap
+17.63;Luftregelsystem;Air management control system
+18.00;Temperaturschalter;Temperature switch
+19.00;Thermoventile;Thermo valves
+20.00;Sensoren;Sensors
+20.11;Temperatursensor;Temperature sensor
+20.17;Klopfsensor;Knock sensor
+20.22;Drehzahlsensor ;Vehicle speed sensor
+20.24;Oelstandsensor;Oil level sensor
+20.26;Oeldruckschalter;Oil pressure switch
+20.28;Drucksensor (Umgebungsdruck);Pressure sensor (ATM)
+20.29;Fahrpedalmodul;Accelerator-pedal module
+20.31;Gasdrucksensor, CNG (Niederdruck);Gas pressure sensor (low pressure)
+20.33;Drucksensor (Ansaugluft) 1;Pressure sensor (induction air) 1
+20.34;Oelstandschalter;Oil level switch
+20.35;Gasdrucksensor, CNG (Hochdruck);Gas pressure sensor (high pressure)
+20.36;Sensor (DOR-, OBD);DOR-, OBD-Sensor
+20.37;DS Hochdrucksensor;Rail pressure sensor
+20.38;Drucksensor (im Abgasturbolader);Sensor (inside turbo charger)
+20.39;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure)
+20.40;Druck- und Temperatursensor (Ansaugluft) 1;Pressure and temperature sensor (intake air) 1
+20.41;Drucksensor (Brennraum);Pressure sensor (combustion chamber)
+20.42;Drucksensor (Ladeluft) 1;Pressure sensor (charge air) 1
+20.43;Drucksensor (Ladeluft) 2;Pressure sensor (charge air) 2
+20.44;Druck- und Temperatursensor (Ladeluft) 1;Pressure and temperature sensor (charge air) 1
+20.45;Druck- und Temperatursensor (Ladeluft) 2;Pressure and temperature sensor (charge air) 2
+20.46;Druck- und Temperatursensor (MotorOel);Pressure and temperature sensor (motor oil)
+20.47;Druck- und Temperatursensor (Ladeluft) 3;Pressure and temperature sensor (charge air) 3
+20.48;Drucksensor (Sekundaerluft);Pressure sensor (secondary air)
+20.49;Drucksensor (Nebenluft);Pressure sensor (auxiliary air)
+20.50;Drucksensor (MotorOel);Pressure sensor (motor oil)
+20.51;Drucksensor (Oelabscheider);Pressure sensor (oil separator)
+24.00;Temperaturgeber;Temperature sensors
+24.01;Temperatursensor (Kuehlwasser);Temperature sensor (coolant)
+24.02;Temperatursensor (Ansaugluft) 1;Intake air temperature sensor 1
+24.04;Temperaturgeber, Aussenluft;Temperature sensor, ambient air
+24.05;Doppeltemperaturgeber, Kuehlwasser;Dual temperature sensor, coolant
+24.16;Temperatursensor Gas, CNG;ECT sensor gas, CNG
+24.17;Temperatursensor (Abgas) 1;Temperature sensor (exhaust gas) 1
+24.20;Temperatursensor (MotorOel);Temperature sensor (motor oil)
+24.21;Kraftstofftemperatursensor;Fuel temperature sensor
+24.22;Temperatursensor, DOR;Temperature sensor, DOR
+24.23;Temperatursensor (Niederdruck-AGR);Temperature sensor (low pressure EGR)
+24.24;Temperatursensor (Abgas) 2;Temperature sensor (exhaust gas) 2
+24.25;Temperatursensor (Abgas) 3;Temperature sensor (exhaust gas) 3
+24.26;Temperatursensor (Abgas) 4;Temperature sensor (exhaust gas) 4
+24.27;Temperatursensor (Ladeluft) 1;Temperature sensor (charge air) 1
+24.28;Temperatursensor (Ladeluft) 2;Temperature sensor (charge air) 2
+24.29;Temperatursensor (Abgas) 5;Temperature sensor (exhaust gas) 5
+24.30;Temperatursensor (Umgebungsluft);Temperature sensor (ambient air)
+24.31;Temperatursensor (Hochdruck-AGR);Temperature sensor (high pressure EGR)
+24.32;Temperatursensor (Kuehlwasser, NT-Kreislauf);Temperature sensor (coolant, low temperature circuit)
+24.33;Temperatursensor (Ansaugluft) 2;Intake air temperature sensor 2
+24.34;Temperatursensor (Abgas) 6;Temperature sensor (exhaust gas) 6
+24.35;Temperatursensor (Klimaanlage Verdampfer);Temperature sensor (AC chiller)
+24.36;Temperatursensor (Elektromotor);Temperature sensor (electric motor)
+33.00;Elektroumschaltventile;Switching valve
+33.06;EUV Lufteinblasung;Switching valve, AIR
+33.08;EUV Schubumluft;Switching valve, (deceleration air)
+33.21;EUV Steuerklappe (Saugrohr);Switching valve, VIS
+33.24;EUV Waste-Gate;Switching valve, waste-gate
+33.36;EUV Schaltwalze (Saugrohr);Shifting drum
+33.40;EUV Tumbleklappe;Switching valve, tumble flap
+33.42;EUV Wasserpumpe;Switching valve, water pump
+36.00;Luftmengen-/-massenmessung;Air flow systems
+36.01;Luftmassenmesser;Mass air flow sensor
+36.06;Luftmassenmesser mit Temperatursensor;MAF sensor with IAT sensor
+36.07;Luftmassenmesser mit Temperatur- und Feuchtesensor;MAF sensor with IAT and air humidity sensor
+36.08;Luftmassenmesser mit Temperatur- und Drucksensor;MAF sensor with IAT and pressure sensor
+36.09;Luftmassenmesser mit Temperatur-, Druck- und Feuchtesensor;MAF sensor with IAT, pressure and air humidity sensor
+38.00;Steuergeraete;Control module
+38.31;Steuergeraet ESP Hardware;Control module ESP hardware
+38.36;Steuergeraet ETS;Control module, electronic traction syst.
+38.46;Steuergeraet Motorregelung Hardware;Control module engine hardware
+38.47;Steuergeraet Motorregelung Software;Control module engine software
+38.48;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters
+38.49;Interface, CNG;Interface, CNG
+38.50;Programm, Automatikgetriebe;Program automatic transmission
+38.51;Steuergeraet CVT;Transmission control module, CVT
+38.53;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware
+38.56;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software
+38.57;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters
+38.58;Steuergeraet Abgasnachbehandlung Software;Control module exhaust aftertreatment software
+38.59;Steuergeraet Abgasnachbehandlung Parameterdaten;Control module exhaust aftertreatment parameters
+38.60;Steuergeraet ESP Software;Control module ESP software
+38.61;Steuergeraet CPC Hardware;Central powertrain controller hardware
+38.62;Steuergeraet CPC Software;Central powertrain controller software
+38.63;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters
+38.64;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware
+38.65;Steuergeraet Abgasnachbehandlung Hardware;Control module exhaust aftertreatment hardware
+38.68;Parameterdaten Automatikgetriebe;Parameters automatic transmission
+38.69;Steuergeraet EHOC;Control module EHOC
+38.70;Steuergeraet ESP Parameterdaten;Control module ESP parameters
+38.74;Steuergeraet eKAT-Heizung Hardware;Control module catalyst electrical heater hardware
+38.75;Steuergeraet eKAT-Heizung Software;Control module catalyst electrical heater software
+38.76;Steuergeraet eKAT-Heizung Parameterdaten;Control module catalyst electrical heater parameters
+38.78;Steuergeraet SAM Hardware;Control unit SAM (BC-F) hardware
+38.79;Steuergeraet SAM Software;Control unit SAM (BC-F) software
+38.80;Steuergeraet elektronisches Zuendschloss Hardware;Control unit electronic ignition switch hardware
+38.81;Steuergeraet elektronisches Zuendschloss Software;Control unit electronic ignition switch software
+38.82;Steuergeraet Airbag Hardware;Control unit airbag (ORC) hardware
+38.83;Steuergeraet Airbag Software;Control unit airbag (ORC) software
+38.84;Steuergeraet Airbag Parameterdaten;Control unit airbag (ORC) parameters
+38.86;Steuergeraet Mantelrohrschaltermodul Hardware;Control unit steering column (SCCM) hardware
+38.87;Steuergeraet Mantelrohrschaltermodul Software;Control unit steering column (SCCM) software
+38.88;Steuergeraet Fahrprogramm Hardware;Control unit driving mode (Drive Unit) hardware
+38.89;Steuergeraet Fahrprogramm Software;Control unit driving mode (Drive Unit) software
+38.90;Batteriesensor;Battery sensor (IBS)
+38.91;Batteriesensor Software;Battery sensor (IBS) software
+38.92;Batteriesensor Parameterdaten;Battery sensor (IBS) parameters
+38.93;Steuergeraet Fahrprogramm Parameterdaten;Control unit driving mode (Drive Unit) parameters
+39.00;Hybrid;Hybrid
+39.01;Steuergeraet Elektromotor Hardware;Control module electric motor hardware
+39.02;Steuergeraet Rekuperatives Bremssystem;Recuperative Braking Controller (RBC)
+39.04;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware
+39.05;Elektromotor;Electric motor (EM)
+39.07;Hochvolt Batterie;High Voltage Battery (HVB)
+39.08;Bremspedalmodul;Brake-pedal modul
+39.09;Motorhaubensensor;Engine hood sensor
+39.10;Steuergeraet Elektromotor Software;Control module electric motor software
+39.11;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters
+39.12;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software
+39.15;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware
+39.16;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software
+39.18;Steuergeraet Batterie Ladegeraet (OBL) Hardware;Control module battery charger (OBL) hardware
+39.19;Steuergeraet Batterie Ladegeraet (OBL) Software ;Control module battery charger (OBL) software
+39.20;Starterbatterie 48V;Starter battery 48V
+39.21;Steuergeraet Multimediaanlage Hardware;Control module multimedia system hardware
+39.22;Steuergeraet Energiemanagement Software;Control module energy management software
+39.25;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware
+39.26;Steuergeraet Klimaanlage Software;Control module AC-System software
+39.27;Steuergeraet Batteriezellenueberwachung Hardware;Control module battery cell monitoring hardware
+39.28;Steuergeraet Batteriezellenueberwachung Software;Control module battery cell monitoring software
+39.29;Drucksensor Bremspedal;Pressure sensor brake pedal
+39.30;Steuergeraet Batterie Ladegeraet (OBL) Parameterdaten ;Control module battery charger (OBL)software
+39.31;Steuergeraet Batterie Management (BMS) Parameterdaten;Control module battery management (BMS) parameters
+39.32;Steuergeraet DC/DC-Wandler Parameterdaten;Control module DC/DC converter parameters
+39.33;Ladedose;Charging socket
+39.34;Kontakttraeger (HV Batterie);Control Unit Board (HV battery)
+39.35;Positionssensor (Elektromotor);Resolver (electric motor)
+39.36;Steuergeraet Bremsgeraet Hardware;Control module brake unit hardware
+39.37;Steuergeraet Bremsgeraet Software ;Control module brake unit software
+39.38;Steuergeraet Getriebe E-Antrieb (GSM) Hardware;Control module electric drive transmission (GSM) hardware
+39.39;Steuergeraet Getriebe E-Antrieb (GSM) Software;Control module electric drive transmission (GSM) software
+39.40;Steuergeraet Turbolader (ETC)  Hardware;Control module turbo charger (ETC) hardware
+39.41;Steuergeraet Turbolader (ETC) Software;Control module turbo charger (ETC) software
+39.42;Steuergeraet Startergenerator (RSG-HV) Hardware;Control module belt-driven starter generator (RSG-HV) hardware
+39.43;Steuergeraet Startergenerator (RSG-HV) Software;Control module starter belt-driven generator (RSG-HV) software
+39.44;Steuergeraet Startergenerator (RSG-HV) Parameterdaten;Control module belt-driven starter generator (RSG-HV) parameters
+39.45;Steuergeraet Startergenerator (RSG) Hardware;Control module belt-driven starter generator (RSG) hardware
+39.46;Steuergeraet Startergenerator (RSG) Software;Control module belt-driven starter generator (RSG) software
+39.47;Steuergeraet Startergenerator (RSG) Parameterdaten;Control module belt-driven starter generator (RSG) parameters
+39.48;Steuergeraet Batterie Gateway (BCU) Hardware;Control module battery gateway (BCU) hardware
+39.49;Steuergeraet Batterie Gateway (BCU) Software;Control module battery gateway (BCU) software
+39.50;Steuergeraet Strombegrenzer Hybrid (ITM) Hardware;Control module Current Limiter Hybrid (ITM) hardware
+40.00;Nebenaggregate;Secondary components
+40.01;Wasserpumpe;Water pump
+40.02;Wasserpumpe, Niedertemperaturkreis 1;Duty cycle water pump 1
+40.03;Bypass-Pumpe Niedertemperatur;Bypass water pump, low temperature
+40.04;Wasserpumpe, Niedertemperaturkreis 2;Duty cycle water pump 2
+41.01;Startergenerator (ISG);Starter generator (ISG)
+41.02;Startergenerator (RSG);Belt-driven starter generator (RSG)
+41.03;Starter Start-Stopp;Starter Start-Stop
+41.04;Startergenerator (RSG-HV);Belt-driven starter generator (RSG-HV)
+
+
