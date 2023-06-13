@@ -2,8 +2,6 @@ import React, { useContext, useEffect, useState } from 'react';
 import CodeFinder from '../apis/CodeFinder';
 import { CodeContext } from '../context/CodeContext';
 import { useRef } from "react";
-import jsPDF from "jspdf";
-import html2canvas from "html2canvas";
 import html2pdf from 'html2pdf.js';
 
 
