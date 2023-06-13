@@ -244,205 +244,205 @@ SNR";TypID;MY;MBR;FBR;FBM;Model Name;COP Typ-Bezeichnung
 3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;T 000 903 84 39;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
 3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;T 000 903 20 63;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
 3865;Steuergeraet Abgasnachbehandlung Hardware;Control module exhaust aftertreatment hardware; ;T 000 901 17 03;332-23;23;300;333;987654;Sprinter 4500 / Freightliner 4500 (5.5t HD);987654 Sprinter 4500 / Freightliner 4500 (5.5t HD) 300 333 MY23
-0109;Oel-Einfuellverschluss;Oil filler cap; ;F 000 018 02 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0109;Oel-Einfuellverschluss;Oil filler cap;;F 000 018 05 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0204;Zuendspule;Ignition coil;;F 256 906 05 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0204;Zuendspule;Ignition coil;;F 256 906 06 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0207;Zuendkerze;Spark plug;;F 254 159 00 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0215;Positionssensor Kurbelwelle;Crankshaft position sensor;;F 256 905 01 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0219;Positionssensor Nockenwelle;Camshaft position sensor;;F 654 905 24 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0219;Positionssensor Nockenwelle;Camshaft position sensor;;F 254 905 36 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0301;Daempferfilter;Air cleaner;2U3/824;F 654 090 28 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0301;Daempferfilter;Air cleaner;;F 654 090 26 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0310;Oelabscheider;Oil separator;;F 256 010 96 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0341;E-Gassteller;Electr. throttle valve; ;F 256 141 00 25;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0366;Reinluftleitung;Clean air line;;F 256 090 28 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0432;Hochdruckpumpe;High-pressure pump;;F 256 070 26 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0433;Injektor;Fuel injector;;F 256 070 56 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0501;Abgasturbolader;Turbocharger;AA6;F 256 090 50 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0501;Abgasturbolader;Turbocharger;AA6;F 256 090 14 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0503;Waste-Gate Steller;Waste gate valve;;F 256 906 11 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0516;Ladeluftkuehler ;Charge air cooler;;F 256 090 20 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0527;Schubumluftventil;Decel air valve;;F 000 906 88 04;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0529;Ladeluftleitung ;Charge air line;AA6;F 256 098 02 07;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0529;Ladeluftleitung ;Charge air line;AA6;F 256 098 03 07;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 36 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 48 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 52 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0534;Rueckschlagventil, Ladeluft;Check valve, charge air;AA6;F 256 141 00 58;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure); ;incl. in 07.03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0703;Kraftstoffpumpe;Fuel Pump; ;F 167 470 45 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;F 256 070 07 95;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 09 95;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 60 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 59 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1001;Auspuffkruemmer;Exhaust manifold; ;F 256 140 00 09;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 73 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 69 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 39 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1101;Lambdasonde ;Primary O2 sensor; ;F 000 542 43 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1116;Lambdasonde ;Secondary O2 sensor;;F 000 542 76 11;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1201;Kraftstoffbehaelter;Fuel tank;;F 167 471 00 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1205;Tankverschluss;Filler cap;;F 000 470 65 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1209;Aktivkohlefilter;EVAP canister; ;F 167 470 34 03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;incl. in 07.03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1221;Regenerierventil;EVAP canister purge valve;;F 000 470 37 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1252;Regenerierleitung;EVAP purge line;;F 256 018 12 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1252;Regenerierleitung;EVAP purge line;;F 256 018 22 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1252;Regenerierleitung;EVAP purge line;;F 167 470 05 04;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;F 000 545 01 41;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1258;Drucksensor Regenerierung;Pressure sensor, purge line;;F 000 905 50 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 00 75;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 37 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 38 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;F 725 270 19 05;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1634;Schaltplatte;Gearshift plate;;F 725 270 18 05;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1726;Stellmagnet Nockenwelle;Actuator, CMP; ;F 276 156 07 90;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1756;Stellmagnet Camtronic;Actuator camtronic;;F 177 982 19 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;F 000 997 48 07;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-1760;Oeldruckschaltventil;Oil switching valve;;incl. in Oilpump;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2017;Klopfsensor;Knock sensor; ;F 000 905 73 04;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2022;Drehzahlsensor ;Vehicle speed sensor; ;F 247 905 00 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2022;Drehzahlsensor ;Vehicle speed sensor; ;F 167 905 46 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;F 000 905 59 06;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;F 256 905 02 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2044;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 1; ;F 009 153 86 28;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2045;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 2; ;F 009 153 86 28;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2046;Druck- und Temperatursensor (Motoroel);Pressure and temperature sensor (motor oil);;F 654 905 16 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2047;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 3;;F 009 153 86 28;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant);;F 000 905 23 15;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;F 000 905 61 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3831;Steuergeraet ESP Hardware;Control module ESP hardware;;F 167 901 66 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3846;Steuergeraet Motorregelung Hardware;Control module engine hardware;;F 256 901 31 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3847;Steuergeraet Motorregelung Software;Control module engine software;;F 256 902 32 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;F 256 903 06 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3850;Programm, Automatikgetriebe;Program automatic transmission;;F 000 902 89 73;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;F 000 901 50 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;F 000 902 66 61;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;F 000 903 03 43;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 94 10;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 53 13;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 42 09;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3861;Steuergeraet CPC Hardware;Central powertrain controller hardware; ;F 000 901 30 13;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3862;Steuergeraet CPC Software;Central powertrain controller software;;F 000 902 52 60;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;F 000 903 62 50;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;F 000 901 53 03;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3901;Steuergeraet Elektromotor Hardware;Control module electric motor hardware; ;F 256 901 08 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3904;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware;;F 000 901 89 14;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3910;Steuergeraet Elektromotor Software;Control module electric motor software;;F 256 902 53 02;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3911;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters;;F 256 903 99 01;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3912;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software;;F 000 902 42 80;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3915;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware;;F 000 901 46 09;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3916;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software;;F 000 902 30 55;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3920;Starterbatterie 48V;Starter battery 48V;;F 000 982 44 20;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;F 000 901 15 16;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;F 000 901 14 16;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;F 000 901 02 25;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;F 000 901 03 25;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 50 67;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 61 71;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 66 71;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 67 71;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-4001;Wasserpumpe;Water pump;;F 256 200 14 00;350-21;21;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY21
-0109;Oel-Einfuellverschluss;Oil filler cap; ;P 000 018 02 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0109;Oel-Einfuellverschluss;Oil filler cap;;P 000 018 05 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0204;Zuendspule;Ignition coil;;P 256 906 05 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0204;Zuendspule;Ignition coil;;P 256 906 06 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0207;Zuendkerze;Spark plug;;P 254 159 00 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0215;Positionssensor Kurbelwelle;Crankshaft position sensor;;P 256 905 01 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0219;Positionssensor Nockenwelle;Camshaft position sensor;;P 654 905 24 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0219;Positionssensor Nockenwelle;Camshaft position sensor;;P 254 905 36 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0301;Daempferfilter;Air cleaner;2U3/824;P 654 090 28 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0301;Daempferfilter;Air cleaner;;P 654 090 26 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0310;Oelabscheider;Oil separator;;P 256 010 96 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0341;E-Gassteller;Electr. throttle valve; ;P 256 141 00 25;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0366;Reinluftleitung;Clean air line;;P 256 090 28 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0432;Hochdruckpumpe;High-pressure pump;;P 256 070 26 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0433;Injektor;Fuel injector;;P 256 070 56 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0501;Abgasturbolader;Turbocharger;AA6;P 256 090 50 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0501;Waste-Gate Steller;Turbocharger;AA6;P 256 090 14 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0503;Ladeluftkuehler ;Waste gate valve;;P 256 906 11 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0516;Turbolader, VTG;Charge air cooler;;P 256 090 20 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0527;Schubumluftventil;Decel air valve;;P 000 906 88 04;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0529;Ladeluftleitung ;Charge air line;AA6;P 256 098 02 07;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0529;Ladeluftleitung ;Charge air line;AA6;P 256 098 03 07;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 36 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 48 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 52 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0534;Rueckschlagventil, Ladeluft;Check valve, charge air;AA6;P 256 141 00 58;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure); ;incl. in 07.03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0703;Kraftstoffpumpe;Fuel Pump; ;P 167 470 45 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 256 070 07 95;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 09 95;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 60 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 59 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1001;Auspuffkruemmer;Exhaust manifold; ;P 256 140 00 09;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 73 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 69 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 39 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1101;Lambdasonde ;Primary O2 sensor; ;P 000 542 43 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1116;Lambdasonde ;Secondary O2 sensor;;P 000 542 76 11;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1201;Kraftstoffbehaelter;Fuel tank;;P 167 471 00 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1205;Tankverschluss;Filler cap;;P 000 470 65 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1209;Aktivkohlefilter;EVAP canister; ;P 167 470 34 03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;incl. in 07.03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1221;Regenerierventil;EVAP canister purge valve;;P 000 470 37 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1252;Regenerierleitung;EVAP purge line;;P 256 018 12 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1252;Regenerierleitung;EVAP purge line;;P 256 018 22 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1252;Regenerierleitung;EVAP purge line;;P 167 470 05 04;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;P 000 545 01 41;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1258;Drucksensor Regenerierung;Pressure sensor, purge line;;P 000 905 50 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 00 75;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 37 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 38 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;P 725 270 19 05;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1634;Schaltplatte;Gearshift plate;;P 725 270 18 05;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1726;Stellmagnet Nockenwelle;Actuator, CMP; ;P 276 156 07 90;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1756;Stellmagnet Camtronic;Actuator camtronic;;P 177 982 19 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;P 000 997 48 07;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-1760;Oeldruckschaltventil;Oil switching valve;;incl. in Oilpump;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2017;Klopfsensor;Knock sensor; ;P 000 905 73 04;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2022;Drehzahlsensor ;Vehicle speed sensor; ;P 247 905 00 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2022;Drehzahlsensor ;Vehicle speed sensor; ;P 167 905 46 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;P 000 905 59 06;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;P 256 905 02 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2044;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 1; ;P 009 153 86 28;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2045;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 2; ;P 009 153 86 28;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2046;Druck- und Temperatursensor (Motoroel);Pressure and temperature sensor (motor oil);;P 654 905 16 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2047;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 3;;P 009 153 86 28;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant);;P 000 905 23 15;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;P 000 905 61 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3831;Steuergeraet ESP Hardware;Control module ESP hardware;;P 167 901 66 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3846;Steuergeraet Motorregelung Hardware;Control module engine hardware;;P 256 901 31 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3847;Steuergeraet Motorregelung Software;Control module engine software;;P 256 902 32 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;P 256 903 06 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3850;Programm, Automatikgetriebe;Program automatic transmission;;P 000 902 89 73;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;P 000 901 50 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;P 000 902 66 61;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;P 000 903 03 43;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 94 10;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 53 13;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 42 09;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3861;Steuergeraet CPC Hardware;Central powertrain controller hardware; ;P 000 901 30 13;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3862;Steuergeraet CPC Software;Central powertrain controller software;;P 000 902 52 60;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;P 000 903 62 50;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;P 000 901 53 03;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3901;Steuergeraet Elektromotor Hardware;Control module electric motor hardware; ;P 256 901 08 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3904;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware;;P 000 901 89 14;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3910;Steuergeraet Elektromotor Software;Control module electric motor software;;P 256 902 53 02;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3911;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters;;P 256 903 99 01;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3912;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software;;P 000 902 42 80;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3915;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware;;P 000 901 46 09;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3916;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software;;P 000 902 30 55;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3920;Starterbatterie 48V;Starter battery 48V;;P 000 982 44 20;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;P 000 901 15 16;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;P 000 901 14 16;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;P 000 901 02 25;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;P 000 901 03 25;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 50 67;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 61 71;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 66 71;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 67 71;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
-4001;Wasserpumpe;Water pump;;P 256 200 14 00;350-22;22;200;222;654321;AEG GLE 53 6Static+ (coupe);654321 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0109;Oel-Einfuellverschluss;Oil filler cap; ;F 000 018 02 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0109;Oel-Einfuellverschluss;Oil filler cap;;F 000 018 05 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0204;Zuendspule;Ignition coil;;F 256 906 05 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0204;Zuendspule;Ignition coil;;F 256 906 06 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0207;Zuendkerze;Spark plug;;F 254 159 00 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor;;F 256 905 01 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;F 654 905 24 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;F 254 905 36 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0301;Daempferfilter;Air cleaner;2U3/824;F 654 090 28 01;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0301;Daempferfilter;Air cleaner;;F 654 090 26 01;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0310;Oelabscheider;Oil separator;;F 256 010 96 02;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0341;E-Gassteller;Electr. throttle valve; ;F 256 141 00 25;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0366;Reinluftleitung;Clean air line;;F 256 090 28 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0432;Hochdruckpumpe;High-pressure pump;;F 256 070 26 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0433;Injektor;Fuel injector;;F 256 070 56 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0501;Abgasturbolader;Turbocharger;AA6;F 256 090 50 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0501;Abgasturbolader;Turbocharger;AA6;F 256 090 14 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0503;Waste-Gate Steller;Waste gate valve;;F 256 906 11 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0516;Ladeluftkuehler ;Charge air cooler;;F 256 090 20 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0527;Schubumluftventil;Decel air valve;;F 000 906 88 04;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0529;Ladeluftleitung ;Charge air line;AA6;F 256 098 02 07;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0529;Ladeluftleitung ;Charge air line;AA6;F 256 098 03 07;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 36 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 48 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;F 256 090 52 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0534;Rueckschlagventil, Ladeluft;Check valve, charge air;AA6;F 256 141 00 58;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure); ;incl. in 07.03;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0703;Kraftstoffpumpe;Fuel Pump; ;F 167 470 45 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;F 256 070 07 95;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 09 95;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 60 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;F 256 070 59 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1001;Auspuffkruemmer;Exhaust manifold; ;F 256 140 00 09;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 73 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 69 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;F 213 491 39 02;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1101;Lambdasonde ;Primary O2 sensor; ;F 000 542 43 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1116;Lambdasonde ;Secondary O2 sensor;;F 000 542 76 11;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1201;Kraftstoffbehaelter;Fuel tank;;F 167 471 00 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1205;Tankverschluss;Filler cap;;F 000 470 65 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1209;Aktivkohlefilter;EVAP canister; ;F 167 470 34 03;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;incl. in 07.03;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1221;Regenerierventil;EVAP canister purge valve;;F 000 470 37 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1252;Regenerierleitung;EVAP purge line;;F 256 018 12 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1252;Regenerierleitung;EVAP purge line;;F 256 018 22 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1252;Regenerierleitung;EVAP purge line;;F 167 470 05 04;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;F 000 545 01 41;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1258;Drucksensor Regenerierung;Pressure sensor, purge line;;F 000 905 50 02;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 00 75;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 37 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;F 256 203 38 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;F 725 270 19 05;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1634;Schaltplatte;Gearshift plate;;F 725 270 18 05;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1726;Stellmagnet Nockenwelle;Actuator, CMP; ;F 276 156 07 90;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1756;Stellmagnet Camtronic;Actuator camtronic;;F 177 982 19 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;F 000 997 48 07;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+1760;Oeldruckschaltventil;Oil switching valve;;incl. in Oilpump;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2017;Klopfsensor;Knock sensor; ;F 000 905 73 04;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2022;Drehzahlsensor ;Vehicle speed sensor; ;F 247 905 00 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2022;Drehzahlsensor ;Vehicle speed sensor; ;F 167 905 46 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;F 000 905 59 06;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;F 256 905 02 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2044;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 1; ;F 009 153 86 28;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2045;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 2; ;F 009 153 86 28;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2046;Druck- und Temperatursensor (Motoroel);Pressure and temperature sensor (motor oil);;F 654 905 16 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2047;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 3;;F 009 153 86 28;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant);;F 000 905 23 15;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;F 000 905 61 02;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3831;Steuergeraet ESP Hardware;Control module ESP hardware;;F 167 901 66 02;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware;;F 256 901 31 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3847;Steuergeraet Motorregelung Software;Control module engine software;;F 256 902 32 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;F 256 903 06 01;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3850;Programm, Automatikgetriebe;Program automatic transmission;;F 000 902 89 73;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;F 000 901 50 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;F 000 902 66 61;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;F 000 903 03 43;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 94 10;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 53 13;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3860;Steuergeraet ESP Software;Control module ESP software;;F 167 902 42 09;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware; ;F 000 901 30 13;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3862;Steuergeraet CPC Software;Central powertrain controller software;;F 000 902 52 60;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;F 000 903 62 50;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;F 000 901 53 03;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3901;Steuergeraet Elektromotor Hardware;Control module electric motor hardware; ;F 256 901 08 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3904;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware;;F 000 901 89 14;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3910;Steuergeraet Elektromotor Software;Control module electric motor software;;F 256 902 53 02;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3911;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters;;F 256 903 99 01;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3912;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software;;F 000 902 42 80;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3915;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware;;F 000 901 46 09;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3916;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software;;F 000 902 30 55;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3920;Starterbatterie 48V;Starter battery 48V;;F 000 982 44 20;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;F 000 901 15 16;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;F 000 901 14 16;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;F 000 901 02 25;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;F 000 901 03 25;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 50 67;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 61 71;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 66 71;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;F 000 902 67 71;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+4001;Wasserpumpe;Water pump;;F 256 200 14 00;350-21;21;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY21
+0109;Oel-Einfuellverschluss;Oil filler cap; ;P 000 018 02 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0109;Oel-Einfuellverschluss;Oil filler cap;;P 000 018 05 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0204;Zuendspule;Ignition coil;;P 256 906 05 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0204;Zuendspule;Ignition coil;;P 256 906 06 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0207;Zuendkerze;Spark plug;;P 254 159 00 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0215;Positionssensor Kurbelwelle;Crankshaft position sensor;;P 256 905 01 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;P 654 905 24 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0219;Positionssensor Nockenwelle;Camshaft position sensor;;P 254 905 36 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0301;Daempferfilter;Air cleaner;2U3/824;P 654 090 28 01;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0301;Daempferfilter;Air cleaner;;P 654 090 26 01;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0310;Oelabscheider;Oil separator;;P 256 010 96 02;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0341;E-Gassteller;Electr. throttle valve; ;P 256 141 00 25;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0366;Reinluftleitung;Clean air line;;P 256 090 28 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0432;Hochdruckpumpe;High-pressure pump;;P 256 070 26 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0433;Injektor;Fuel injector;;P 256 070 56 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0501;Abgasturbolader;Turbocharger;AA6;P 256 090 50 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0501;Waste-Gate Steller;Turbocharger;AA6;P 256 090 14 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0503;Ladeluftkuehler ;Waste gate valve;;P 256 906 11 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0516;Turbolader, VTG;Charge air cooler;;P 256 090 20 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0527;Schubumluftventil;Decel air valve;;P 000 906 88 04;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0529;Ladeluftleitung ;Charge air line;AA6;P 256 098 02 07;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0529;Ladeluftleitung ;Charge air line;AA6;P 256 098 03 07;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 36 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 48 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0533;Zusatzverdichter, elektrisch (EZV);Supplemental charger, electrical;AA6;P 256 090 52 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0534;Rueckschlagventil, Ladeluft;Check valve, charge air;AA6;P 256 141 00 58;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0701;Druck- und Temperatursensor (Kraftstoff, Niederdruck);Pressure and temperature sensor (fuel, low pressure); ;incl. in 07.03;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0703;Kraftstoffpumpe;Fuel Pump; ;P 167 470 45 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure); ;P 256 070 07 95;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 09 95;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 60 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+0770;Kraftstoffverteiler (Hochdruck);Fuel rail (high pressure);;P 256 070 59 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1001;Auspuffkruemmer;Exhaust manifold; ;P 256 140 00 09;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 73 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 69 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1039;Drei-Wege-Katalysator;Three-way-catalyst;;P 213 491 39 02;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1101;Lambdasonde ;Primary O2 sensor; ;P 000 542 43 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1116;Lambdasonde ;Secondary O2 sensor;;P 000 542 76 11;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1201;Kraftstoffbehaelter;Fuel tank;;P 167 471 00 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1205;Tankverschluss;Filler cap;;P 000 470 65 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1209;Aktivkohlefilter;EVAP canister; ;P 167 470 34 03;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1218;Fuellstandssensor Kraftstofftank;Fill level sensor (fuel tank);;incl. in 07.03;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1221;Regenerierventil;EVAP canister purge valve;;P 000 470 37 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1252;Regenerierleitung;EVAP purge line;;P 256 018 12 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1252;Regenerierleitung;EVAP purge line;;P 256 018 22 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1252;Regenerierleitung;EVAP purge line;;P 167 470 05 04;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1255;Diagnosemodule Tankleck (DM-TL);Diagnostic module tank leakage; ;P 000 545 01 41;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1258;Drucksensor Regenerierung;Pressure sensor, purge line;;P 000 905 50 02;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 00 75;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 37 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1527;Thermostat (Kuehlwasser), kennfeldgesteuert ;Engine thermostat, MAP controlled;;P 256 203 38 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1633;Steuereinheit elektrohydraulisch;Electrohydraulic Control Unit;;P 725 270 19 05;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1634;Schaltplatte;Gearshift plate;;P 725 270 18 05;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1726;Stellmagnet Nockenwelle;Actuator, CMP; ;P 276 156 07 90;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1756;Stellmagnet Camtronic;Actuator camtronic;;P 177 982 19 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1757;Oeldruck-Kontrollventil, elektrisch;Oil pressure control valve, electrical;;P 000 997 48 07;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+1760;Oeldruckschaltventil;Oil switching valve;;incl. in Oilpump;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2017;Klopfsensor;Knock sensor; ;P 000 905 73 04;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2022;Drehzahlsensor ;Vehicle speed sensor; ;P 247 905 00 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2022;Drehzahlsensor ;Vehicle speed sensor; ;P 167 905 46 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2028;Drucksensor (Umgebungsdruck);Pressure sensor (ATM);;incl. in 38.46;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2033;Drucksensor (Ansaugluft) ;Pressure sensor (induction air) 1; ;P 000 905 59 06;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2039;Druck- und Temperatursensor (Kraftstoff, Hochdruck);Pressure and temperature sensor (fuel, high pressure); ;P 256 905 02 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2044;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 1; ;P 009 153 86 28;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2045;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 2; ;P 009 153 86 28;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2046;Druck- und Temperatursensor (Motoroel);Pressure and temperature sensor (motor oil);;P 654 905 16 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2047;Druck- und Temperatursensor (Ladeluft) ;Pressure and temperature sensor (charge air) 3;;P 009 153 86 28;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant);;P 000 905 23 15;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+2401;Temperatursensor (Kuehlwasser);Temperature sensor (coolant); ;P 000 905 61 02;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3831;Steuergeraet ESP Hardware;Control module ESP hardware;;P 167 901 66 02;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3846;Steuergeraet Motorregelung Hardware;Control module engine hardware;;P 256 901 31 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3847;Steuergeraet Motorregelung Software;Control module engine software;;P 256 902 32 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3848;Steuergeraet Motorregelung Parameterdaten;Control module engine parameters;;P 256 903 06 01;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3850;Programm, Automatikgetriebe;Program automatic transmission;;P 000 902 89 73;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3853;Steuergeraet  Automatikgetriebe Hardware;Control module automatic transmission hardware; ;P 000 901 50 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3856;Steuergeraet  Kraftstoffsystem Software;Control module fuel system software;;P 000 902 66 61;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3857;Steuergeraet  Kraftstoffsystem Parameterdaten;Control module fuel system parameters;;P 000 903 03 43;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 94 10;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 53 13;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3860;Steuergeraet ESP Software;Control module ESP software;;P 167 902 42 09;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3861;Steuergeraet CPC Hardware;Central powertrain controller hardware; ;P 000 901 30 13;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3862;Steuergeraet CPC Software;Central powertrain controller software;;P 000 902 52 60;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3863;Steuergeraet CPC Parameterdaten;Central powertrain controller parameters;;P 000 903 62 50;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3864;Steuergeraet  Kraftstoffsystem Hardware;Control module fuel system hardware; ;P 000 901 53 03;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3901;Steuergeraet Elektromotor Hardware;Control module electric motor hardware; ;P 256 901 08 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3904;Steuergeraet Batterie Management (BMS) Hardware;Control module battery management (BMS) hardware;;P 000 901 89 14;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3910;Steuergeraet Elektromotor Software;Control module electric motor software;;P 256 902 53 02;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3911;Steuergeraet Elektromotor Parameterdaten;Control module electric motor parameters;;P 256 903 99 01;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3912;Steuergeraet Batterie Management (BMS) Software;Control module battery management (BMS) software;;P 000 902 42 80;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3915;Steuergeraet DC/DC-Wandler Hardware;Control module DC/DC converter hardware;;P 000 901 46 09;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3916;Steuergeraet DC/DC-Wandler Software;Control module DC/DC converter software;;P 000 902 30 55;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3920;Starterbatterie 48V;Starter battery 48V;;P 000 982 44 20;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;P 000 901 15 16;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;P 000 901 14 16;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;581/582;P 000 901 02 25;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3925;Steuergeraet Klimaanlage Hardware;Control module AC-System hardware;580;P 000 901 03 25;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 50 67;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 61 71;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 66 71;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+3926;Steuergeraet Klimaanlage Software;Control module AC-System software;;P 000 902 67 71;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22
+4001;Wasserpumpe;Water pump;;P 256 200 14 00;350-22;22;200;222;167361;AEG GLE 53 6Static+ (coupe);167361 AEG GLE 53 6Static+ (coupe) 200 222 MY22

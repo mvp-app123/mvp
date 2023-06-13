@@ -1,6 +1,14 @@
 import React, { useContext, useEffect, useState } from 'react';
 import CodeFinder from '../apis/CodeFinder';
 import { CodeContext } from '../context/CodeContext';
+import { useRef } from "react";
+import jsPDF from "jspdf";
+import html2canvas from "html2canvas";
+import html2pdf from 'html2pdf.js';
+
+
+
+
 
 const CodesList = (props) => {
   const { typen, setTypen } = useContext(CodeContext);
@@ -8,24 +16,18 @@ const CodesList = (props) => {
   const [uniqueMbr, setUniqueMbr] = useState([]);
   const [uniqueMy, setUniqueMy] = useState([]);
 
-
-
   useEffect(() => {
-    
     const fetchData = async () => {
       try {
         const response = await CodeFinder.get("/");
         setTypen(response.data.data.typen);
-
       } catch (err) {
         console.log(err);
       }
     };
-   
+
     fetchData();
   }, [setTypen]);
-
-  
 
   useEffect(() => {
     if (typen && typen.length > 0) {
@@ -36,59 +38,149 @@ const CodesList = (props) => {
       setUniqueFbr(uniqueFbrValues);
       setUniqueMbr(uniqueMbrValues);
       setUniqueMy(uniqueMyValues);
-      
     }
   }, [typen]);
 
   const [selectedOptions, setSelectedOptions] = useState({
-    fbr: '111',
-    mbr: '100',
-    my: '21'
+    fbr: '',
+    mbr: '',
+    my: ''
   });
   const [filteredData, setFilteredData] = useState([]);
   const [partsList, setPartsList] = useState([]);
 
-
-  
-
   const handleOptionChange = (event) => {
     const { name, value } = event.target;
+  
     setSelectedOptions((prevState) => ({
       ...prevState,
       [name]: value,
     }));
+  
+    if (name === "fbr") {
+      const filteredMbrOptions = typen
+        .filter((item) => item.fbr === value)
+        .map((item) => item.mbr.toString());
+      setUniqueMbr([...new Set(filteredMbrOptions)]);
+  
+      // Check if the currently selected "mbr" is available in the filtered options
+      if (!filteredMbrOptions.includes(selectedOptions.mbr)) {
+        setSelectedOptions((prevState) => ({
+          ...prevState,
+          mbr: "",
+        }));
+      }
+  
+      const filteredMyOptions = typen
+        .filter((item) => item.fbr === value)
+        .map((item) => item.my.toString());
+      setUniqueMy([...new Set(filteredMyOptions)]);
+  
+      // Check if the currently selected "my" is available in the filtered options
+      if (!filteredMyOptions.includes(selectedOptions.my)) {
+        setSelectedOptions((prevState) => ({
+          ...prevState,
+          my: "",
+        }));
+      }
+    } else if (name === "mbr") {
+      const filteredFbrOptions = typen
+        .filter((item) => item.mbr === value)
+        .map((item) => item.fbr.toString());
+      setUniqueFbr([...new Set(filteredFbrOptions)]);
+  
+      // Check if the currently selected "fbr" is available in the filtered options
+      if (!filteredFbrOptions.includes(selectedOptions.fbr)) {
+        setSelectedOptions((prevState) => ({
+          ...prevState,
+          fbr: "",
+        }));
+      }
+  
+      const filteredMyOptions = typen
+        .filter((item) => item.mbr === value)
+        .map((item) => item.my.toString());
+      setUniqueMy([...new Set(filteredMyOptions)]);
+  
+      // Check if the currently selected "my" is available in the filtered options
+      if (!filteredMyOptions.includes(selectedOptions.my)) {
+        setSelectedOptions((prevState) => ({
+          ...prevState,
+          my: "",
+        }));
+      }
+    } else if (name === "my") {
+      const filteredFbrOptions = typen
+        .filter((item) => item.my === value)
+        .map((item) => item.fbr.toString());
+      setUniqueFbr([...new Set(filteredFbrOptions)]);
+  
+      // Check if the currently selected "fbr" is available in the filtered options
+      if (!filteredFbrOptions.includes(selectedOptions.fbr)) {
+        setSelectedOptions((prevState) => ({
+          ...prevState,
+          fbr: "",
+        }));
+      }
+  
+      const filteredMbrOptions = typen
+        .filter((item) => item.my === value)
+        .map((item) => item.mbr.toString());
+      setUniqueMbr([...new Set(filteredMbrOptions)]);
+  
+      // Check if the currently selected "mbr" is available in the filtered options
+      if (!filteredMbrOptions.includes(selectedOptions.mbr)) {
+        setSelectedOptions((prevState) => ({
+          ...prevState,
+          mbr: "",
+        }));
+      }
+    }
   };
   
 
-
   const sortOptions = (options) => {
-
-
     return options.sort((a, b) => a - b);
   };
 
-
-
-
-  
   const handleSubmit = () => {
     const { fbr, mbr, my } = selectedOptions;
-    console.log(typen);
-    console.log(fbr, mbr, my);
   
-    const filtered = typen.filter((item) => {
-      return (
-        Number(item.fbr) === Number(fbr) &&
-        Number(item.mbr) === Number(mbr) &&
-        Number(item.my) === Number(my)
-      );
-    });
+    if (fbr === "" && mbr === "" && my === "") {
+      // No options selected, handle it accordingly (e.g., show an error message)
+      console.log("Please select options before displaying results");
+      return;
+    }
   
-    console.log(filtered);
-    console.log(selectedOptions);
-    setFilteredData(filtered);
+    if (!fbr && !mbr && !my) {
+      setFilteredData(typen);
+    } else {
+      const filtered = typen.filter((item) => {
+        return (
+          Number(item.fbr) === Number(fbr) &&
+          Number(item.mbr) === Number(mbr) &&
+          Number(item.my) === Number(my)
+        );
+      });
+  
+      setFilteredData(filtered);
+    }
+  
     setPartsList([]);
   };
+
+  const handleReset = () => {
+    setSelectedOptions({
+      fbr: "",
+      mbr: "",
+      my: ""
+    });
+    setFilteredData([]);
+    setUniqueFbr([...new Set(typen.map(item => item.fbr))]);
+    setUniqueMbr([...new Set(typen.map(item => item.mbr.toString()))]);
+    setUniqueMy([...new Set(typen.map(item => item.my.toString()))]);
+  };
+  
   
 
   const handlePartsList = async () => {
@@ -112,13 +204,19 @@ const CodesList = (props) => {
     }
   };
 
+  const partCheckListRef = useRef(null);
 
-
-
-
-
-
-
+  const handleExport = () => {
+    if (partCheckListRef.current) {
+      const input = partCheckListRef.current;
+  
+      html2pdf()
+        .set({ filename: 'part-check-list.pdf', html2canvas: { scale: 2 } })
+        .from(input)
+        .save();
+    }
+  };
+  
   return (
     <div className='list-group'>
       <table className='table table-hover table-dark'>
@@ -140,9 +238,9 @@ const CodesList = (props) => {
                 value={selectedOptions.fbr}
                 onChange={handleOptionChange}
               >
+                <option value="">-- Select FBR --</option>
                 {sortOptions(uniqueFbr).map((option) => (
-                  <option key={option.id} value={option}>{option}</option>
-
+                  <option key={option} value={option}>{option}</option>
                 ))}
               </select>
             </td>
@@ -154,9 +252,9 @@ const CodesList = (props) => {
                 value={selectedOptions.mbr}
                 onChange={handleOptionChange}
               >
+                <option value="">-- Select MBR --</option>
                 {sortOptions(uniqueMbr).map((option) => (
-                 <option key={option.id} value={option}>{option}</option>
-
+                  <option key={option} value={option}>{option}</option>
                 ))}
               </select>
             </td>
@@ -168,9 +266,9 @@ const CodesList = (props) => {
                 value={selectedOptions.my}
                 onChange={handleOptionChange}
               >
+                <option value="">-- Select My --</option>
                 {sortOptions(uniqueMy).map((option) => (
                   <option key={option.id} value={option}>{option}</option>
-
                 ))}
               </select>
             </td>
@@ -182,6 +280,7 @@ const CodesList = (props) => {
               >
                 Typen anzeigen
               </button>
+              <button className='btn btn-danger ml-3' onClick={handleReset}>Reset</button>
             </td>
           </tr>
         </tbody>
@@ -196,11 +295,15 @@ const CodesList = (props) => {
             ))}
           </select>
           <button onClick={handlePartsList} type="button" className="btn btn-warning ml-2">
-
             Parts List
           </button>
+          
+          <button  className="btn btn-success ml-2"onClick={handleExport}>Export to PDF  </button>
           {partsList.length > 0 && (
-            <div>
+           
+          
+           <div ref={partCheckListRef}>
+           {/* Part Check List component */}
               <h2>Parts Check List:</h2>
               <td>
                 {filteredData.map((item) => (
@@ -215,7 +318,7 @@ const CodesList = (props) => {
                     <th scope="col">Part</th>
                     <th scope="col">Code</th>
                     <th scope="col">SachnummerSNR</th>
-                    <th scope="col">O.k</th>
+                    <th scope="col">O.k.</th>
                     <th scope="col">Comments</th>
                   </tr>
                 </thead>
@@ -226,25 +329,18 @@ const CodesList = (props) => {
                       <td>{part.benennung_english}</td>
                       <td>{part.code}</td>
                       <td>{part.sachnummersnr}</td>
-                      <td contenteditable="true"></td>
-                       <td contenteditable="true"></td>
-
+                      <td contentEditable="true"></td>
+                      <td contentEditable="true"></td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
           )}
-
         </div>
-
       )}
     </div>
-
   );
-
-
-
 };
 
 export default CodesList;
